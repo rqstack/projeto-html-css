@@ -4,6 +4,8 @@
 
 Página inicial simples de um site sobre cuidados com animais de estimação, com menu de navegação, imagem de destaque, título, texto e botão de chamada.
 
+🔗 **Veja o site online:** https://rqstack.github.io/projeto-html-css/
+
 ## O que pratiquei
 
 - Estrutura semântica com `header`, `main` e `section`
